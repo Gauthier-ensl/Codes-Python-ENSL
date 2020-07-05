@@ -14,4 +14,3 @@ Quelques astuces pour écrire sur un fichier markdown sur github (.md) :
    1. Sauter à la ligne : faire deux espaces à la fin de la ligne  
    2. Faire une liste (à la itemize sur latex) : taper "1. " puis "2. " (avec un espace après le point) etc au début de chaque ligne (en revenant à la ligne à chaque fois)  
    3. Faire des listes de liste : "1. texte \[deux espaces\] \[retour à la ligne\] \[trois espaces\] 1. "
-   4. Insérer un lien : \[lien\]
